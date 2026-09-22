@@ -1,0 +1,6 @@
+{
+  "name": "Health Overview Dashboard",
+  "description": "แดชบอร์ดติดตามและวิเคราะห์ความเสี่ยงสุขภาพ ประเมินเบาหวาน ความดันโลหิตสูง และพฤติกรรมสุขภาพ เชื่อมโยง Google Sheet โดย วริษฐ์ ชยภพ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
